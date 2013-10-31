@@ -70,4 +70,6 @@ TAGS
 Makefile.local
 bin/.version
 compile.bat
-
+*.swp
+*.sln
+*.suo
